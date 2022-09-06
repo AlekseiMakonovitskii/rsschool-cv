@@ -28,4 +28,17 @@ const getCityName = (lat, lon, apiId) => {
     .then(city => getCityCoords(`` + city[0].name));
 };
 ```
+## Experience:
+Unfortunately I have no experience in commercial projects
 
+## Education:
+* Ryazanskiy Kolledzh Elektroniki (2015 - 2019)
+* EPAM Frontend Development basics course (Ryazan 2020)
+* Responsive Web Design FreeCodeCamp [Certificate](https://www.freecodecamp.org/certification/AlekseiMakonovitskii/responsive-web-design)
+* JavaScript Algorithms and Data Structures FreeCodeCamp [Certificate](https://www.freecodecamp.org/certification/AlekseiMakonovitskii/javascript-algorithms-and-data-structures)
+* Udemy The Complete JavaScript Course 2022: From Zero to Expert! [Git repository](https://github.com/AlekseiMakonovitskii/Complete-javascript-course-master)
+* Front End Development Libraries FreeCodeCamp (in progress...)
+
+## Languages:
+* Russian - native
+* English - B1 (I continue to study every day, I like English)
