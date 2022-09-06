@@ -20,13 +20,17 @@ My goal is to work in a good Company with good people.
 * React (started)
 
 ## Code example:
+#### Codewars task [Link](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+
 ```
-const getCityName = (lat, lon, apiId) => {
-  const url = `https://api.openweathermap.org/geo/1.0/reverse?lat=${lat}&lon=${lon}&limit=1&appid=${apiId}`;
-  fetch(url)
-    .then(res => res.json())
-    .then(city => getCityCoords(`` + city[0].name));
-};
+function sumTwoSmallestNumbers(numbers) {
+  const firstNum = Math.min(...numbers);
+  numbers.splice(numbers.indexOf(firstNum), 1);
+  const secondNum = Math.min(...numbers);
+  return firstNum + secondNum;
+}
+
+sumTwoSmallestNumbers([5, 8, 12, 19, 22]);
 ```
 ## Experience:
 Unfortunately I have no experience in commercial projects
