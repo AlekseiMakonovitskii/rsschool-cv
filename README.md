@@ -1,0 +1,1 @@
+https://AlekseiMakonovitskii.github.io/rsschool-cv/cv
